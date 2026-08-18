@@ -1,4 +1,4 @@
-🐾 Stray Animal Rescue & Adoption Management System
+ Stray Animal Rescue & Adoption Management System
 
 The Stray Animal Rescue & Adoption Management System is a full-stack web application developed using PHP, MySQL, and Bootstrap 5 to improve the management of stray animal welfare. The platform provides a centralized and role-based system where Administrators, Rescuers, Veterinarians, and Adopters collaborate to manage the complete lifecycle of stray animals efficiently.
 
@@ -28,17 +28,17 @@ Unlike a traditional CRUD application, the system follows a structured workflow.
                          │
                          ▼
                 Successful Rehoming 🏡
-✨ Key Features
-🔐 Secure role-based authentication (Admin, Rescuer, Veterinarian, Adopter)
-🐾 Stray animal sighting with admin approval workflow
-🐶 Animal management (Create, Read, Update, Delete)
-🚑 Rescue tracking and status management
-🩺 Medical record management
-🏡 Adoption request and approval system
-🔍 Search and filter functionality
-📊 Dashboard with real-time statistics using SQL aggregate functions
-🔗 Relational database with JOIN operations, constraints, and foreign keys
-📱 Responsive user interface built with Bootstrap 5
+ Key Features
+ -Secure role-based authentication (Admin, Rescuer, Veterinarian, Adopter)
+ -Stray animal sighting with admin approval workflow
+ -Animal management (Create, Read, Update, Delete)
+ -Rescue tracking and status management
+ -Medical record management
+ -Adoption request and approval system
+ -Search and filter functionality
+ -Dashboard with real-time statistics using SQL aggregate functions
+ -Relational database with JOIN operations, constraints, and foreign keys
+ -Responsive user interface built with Bootstrap 5
 
 
 🛠️ Tech Stack
