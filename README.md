@@ -4,26 +4,28 @@ A full-stack web application built with PHP, MySQL, and Bootstrap 5 to manage th
 
 ## 📸 Screenshots
 
-### Login
+## 📸 Screenshots
+
+### 🔐 Login
 ![Login](screenshots/login.png)
 
-### Dashboard
+### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Animal Management
-![Animals](screenshots/animals.png)
+### 🐾 Animal Management
+![Animal Management](screenshots/animals.png)
 
-### Sightings & Admin Approval
+### 👀 Sightings & Admin Approval
 ![Sightings](screenshots/sightings.png)
 
-### Rescue Management
-![Rescues](screenshots/rescues.png)
+### 🚑 Rescue Management
+![Rescue Management](screenshots/rescues.png)
 
-### Medical Records
+### 🩺 Medical Records
 ![Medical Records](screenshots/medicalrecords.png)
 
-### Adoption Management
-![Adoptions](screenshots/adoption.png)
+### 🏠 Adoption Management
+![Adoption Management](screenshots/adoption.png)
 
 ## Features
 
