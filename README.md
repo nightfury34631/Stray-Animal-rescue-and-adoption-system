@@ -1,66 +1,57 @@
- Stray Animal Rescue & Adoption Management System
+# 🐾 Stray Animal Rescue & Adoption Management System
 
-The Stray Animal Rescue & Adoption Management System is a full-stack web application developed using PHP, MySQL, and Bootstrap 5 to improve the management of stray animal welfare. The platform provides a centralized and role-based system where Administrators, Rescuers, Veterinarians, and Adopters collaborate to manage the complete lifecycle of stray animals efficiently.
+A full-stack web application built with PHP, MySQL, and Bootstrap 5 to manage the complete lifecycle of stray animals — from sighting and rescue to medical treatment and adoption.
 
-Unlike a traditional CRUD application, the system follows a structured workflow. Rescuers can report newly sighted stray animals, which are then reviewed by an administrator before being added to the animal database. Once approved, rescue operations are recorded, medical treatments are managed by veterinarians, and adopters can submit adoption requests for eligible animals. This workflow ensures that every animal is tracked from its first sighting to successful rehabilitation and rehoming.
+## 📸 Screenshots
 
-📌 Workflow
-        Report Sighting
-               │
-               ▼
-      Admin Reviews Report
-               │
-      ┌────────┴────────┐
-      │                 │
-  Reject Report     Approve Report
-                         │
-                         ▼
-              Add Animal to Database
-                         │
-                         ▼
-                Rescue Operation
-                         │
-                         ▼
-                 Medical Treatment
-                         │
-                         ▼
-                Adoption Request
-                         │
-                         ▼
-                Successful Rehoming 🏡
- Key Features
- -Secure role-based authentication (Admin, Rescuer, Veterinarian, Adopter)
- -Stray animal sighting with admin approval workflow
- -Animal management (Create, Read, Update, Delete)
- -Rescue tracking and status management
- -Medical record management
- -Adoption request and approval system
- -Search and filter functionality
- -Dashboard with real-time statistics using SQL aggregate functions
- -Relational database with JOIN operations, constraints, and foreign keys
- -Responsive user interface built with Bootstrap 5
+### Login
+![Login](screenshots/login.png)
 
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-🛠️ Tech Stack
-Category	Technology
-Frontend	HTML5, CSS3, Bootstrap 5
-Backend	PHP
-Database	MySQL
-Server	Apache (XAMPP)
-Tools	phpMyAdmin, Visual Studio Code
+### Animal Management
+![Animals](screenshots/animals.png)
 
+### Sightings & Admin Approval
+![Sightings](screenshots/sightings.png)
 
-🗄️ Database Concepts Implemented
-CRUD Operations
-SQL JOIN Operations
-Aggregate Functions (COUNT())
-Primary & Foreign Keys
-Database Constraints
-Role-Based Access Control (RBAC)
-Search & Filtering
-Relational Database Design
+### Rescue Management
+![Rescues](screenshots/rescues.png)
 
+### Medical Records
+![Medical Records](screenshots/medicalrecords.png)
 
-🎯 Project Objective
+### Adoption Management
+![Adoptions](screenshots/adoption.png)
 
-This project was developed to demonstrate practical full-stack web development and database management skills while addressing a real-world problem. By integrating structured workflows, role-based access control, and relational database concepts, the application provides an efficient platform for managing stray animal rescue, treatment, and adoption from start to finish.
+## Features
+
+- Role-based authentication for Admin, Rescuer, Veterinarian, and Adopter
+- Stray animal sighting and admin approval workflow
+- Animal management with CRUD operations
+- Rescue tracking and status management
+- Medical record management
+- Adoption request and approval system
+- Search and filtering
+- Dashboard statistics
+- SQL JOINs and aggregate functions
+- Database constraints and relational design
+
+## 🛠️ Tech Stack
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- Bootstrap 5
+- Apache / XAMPP
+- phpMyAdmin
+
+## 🔄 System Workflow
+
+Sighting → Admin Review → Animal Added → Rescue → Medical Treatment → Adoption → Rehoming
+
+## 🎯 Project Objective
+
+The system provides an organized platform for managing stray animal rescue operations while demonstrating practical full-stack development and database management concepts.
