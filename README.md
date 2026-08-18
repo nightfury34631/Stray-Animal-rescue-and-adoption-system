@@ -4,7 +4,7 @@ A full-stack web application built with PHP, MySQL, and Bootstrap 5 to manage th
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
+
 
 ### 🔐 Login
 ![Login](screenshots/login.png)
