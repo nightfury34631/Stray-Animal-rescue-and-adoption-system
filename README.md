@@ -54,6 +54,6 @@ A full-stack web application built with PHP, MySQL, and Bootstrap 5 to manage th
 
 Sighting → Admin Review → Animal Added → Rescue → Medical Treatment → Adoption → Rehoming
 
-## 🎯 Project Objective
+##  Project Objective
 
 The system provides an organized platform for managing stray animal rescue operations while demonstrating practical full-stack development and database management concepts.
