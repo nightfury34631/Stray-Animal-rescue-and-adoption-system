@@ -40,7 +40,7 @@ A full-stack web application built with PHP, MySQL, and Bootstrap 5 to manage th
 - SQL JOINs and aggregate functions
 - Database constraints and relational design
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - PHP
 - MySQL
@@ -50,7 +50,7 @@ A full-stack web application built with PHP, MySQL, and Bootstrap 5 to manage th
 - Apache / XAMPP
 - phpMyAdmin
 
-## 🔄 System Workflow
+##  System Workflow
 
 Sighting → Admin Review → Animal Added → Rescue → Medical Treatment → Adoption → Rehoming
 
